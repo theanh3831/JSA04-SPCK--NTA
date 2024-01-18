@@ -1,0 +1,262 @@
+[
+    {
+        "id": 1 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/kysibongdem.jpg",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 2 ,
+        "name" : "Saving private Ryan" ,
+        "Director" :"Steven Spielberg" ,
+        "premiere" :"1998" ,
+        "type" : "action" , 
+        "Writers" : " Robert Rodat" ,
+        "Actors" : "Tom Hanks , Matt Damon , Tom Sizemore" ,
+        "movie duration" :"2h49m" ,
+        "image": "Images/nf6gfcot_1920x1080-giaicuubinhnhiryan46df22ef6b60c3003eaca9d89a077386.png",
+        "IMDb RATING" : "8.6/10"
+    },
+
+    {
+        "id": 3 ,
+        "name" : "The Wolf of Wall Street" ,
+        "Director" :"Martin Scorsese" ,
+        "premiere" :"2013" ,
+        "type" : "comedy" , 
+        "Writers" : " Terence Winter , Jordan Belfort" ,
+        "Actors" : " Leonardo DiCaprio , Jonah Hill , Margot Robbie" ,
+        "movie duration" :"3h" ,
+        "image": "Images/The_Wolf_of_Wall_Street_(2013).png",
+        "IMDb RATING" : "8.2/10"
+    },
+
+    {
+        "id": 4 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/dautruongsinhtu.jpg",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 5 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/akqjio6y_1920x1080-sutrolaicuanhavuaoc.png",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 6 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/Interstellar_poster.jpg",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 7 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/breaking bad.jpg",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 8 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/hunter.jpg",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 9 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/spidermannowayhome.jpg",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 10 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/creator.jpg",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 11 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/inception.jpg",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 12 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/sand.jpg",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 13 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/The_Wolf_of_Wall_Street_(2013).png",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 14 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/The_Wolf_of_Wall_Street_(2013).png",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 15 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/The_Wolf_of_Wall_Street_(2013).png",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 16 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/The_Wolf_of_Wall_Street_(2013).png",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 17 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/The_Wolf_of_Wall_Street_(2013).png",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 18 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/The_Wolf_of_Wall_Street_(2013).png",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 19 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/The_Wolf_of_Wall_Street_(2013).png",
+        "IMDb RATING" : "9.0/10"
+    },
+
+    {
+        "id": 20 ,
+        "name" : "The dark knight" ,
+        "Director" :"Christopher Nolan" ,
+        "premiere" :"2008" ,
+        "type" : "action" , 
+        "Writers" : " Jonathan Nolan , Christopher Nolan , David S. Goyer" ,
+        "Actors" : "Christian Bale , Heath Ledger , Aaron Eckhart" ,
+        "movie duration" :"2h32m" ,
+        "image": "Images/The_Wolf_of_Wall_Street_(2013).png",
+        "IMDb RATING" : "9.0/10"
+    }
+
+]
